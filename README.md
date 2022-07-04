@@ -7,7 +7,7 @@ To get started with this project :
 
 2.Open the .sln file
 
-In this Garage you can :
+## In this Garage you can :
 Add new vehicles based on their engine type (Fuel,Electric) , such as Trucks , Cars , Motorcycles
 
 Fuel vehicles
@@ -20,10 +20,10 @@ Change Air pressure in vehicles
 
 Get all current vehicles registred by license plate number
 
-Technologies used in this project :
+## Technologies used in this project :
 C# (.Net Framework)
 
-What I Learned from this project :
+## What I Learned from this project :
 Design the project in the best way possibe using Object Oriented principles (Split into logically correct classes and methods ).
 
 Seperate the UI from the logic of the program (So that we can Reuse parts of the logic with other UI).
